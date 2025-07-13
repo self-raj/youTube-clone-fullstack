@@ -3,7 +3,11 @@
 A **full-stack YouTube-style video-sharing app** built with **React**, **Node.js**, **Express**, and **MongoDB**.
 
 This project showcases a real-world clone of YouTube including features like **user authentication**, **video uploads**, **likes/dislikes static connect database**, **comments**, and a **fully responsive UI** — all inspired by the real YouTube experience.
-video-link === https://drive.google.com/file/d/1Bi5HBNfIpF8PVtiN7OFVVegwGOCBHcSL/view?usp=drivesdk
+
+
+
+
+ ## video-link === https://drive.google.com/file/d/1Bi5HBNfIpF8PVtiN7OFVVegwGOCBHcSL/view?usp=drivesdk
 ---
 ## 🚀 github link  - https://github.com/self-raj/youTube-clone-fullstack.git
 
@@ -18,7 +22,6 @@ video-link === https://drive.google.com/file/d/1Bi5HBNfIpF8PVtiN7OFVVegwGOCBHcSL
 - 🧭 **Sidebar & Header** — Collapsible sidebar, search bar, and profile menu
 - 🎯 **Recommended Videos** — “Up next” sidebar (currently static)
 - 🚫 **404 Page** — Custom YouTube-style error page
-- 💤 **Lazy Loading** — Components load on demand for speed
 - 🔄 **Custom Loader** — YouTube-like loading animation using **React Toastify**
 - 🕒 **Upload Date** — Formatted using `dayjs`
 
@@ -77,7 +80,7 @@ Edit
 
 ---
 
-### ✅ Bonus Tip:
+###  Bonus Tip:
 - Place this as `frontend-youtube/README.md`
 - GitHub will show this beautifully when visiting the frontend folder repo
 

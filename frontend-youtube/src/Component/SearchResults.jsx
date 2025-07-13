@@ -43,11 +43,11 @@ function SearchResults() {
       >
        
         {results.length === 0 ? (
-          <p className="text-white mt-10 w-full flex justify-center items-center font-bold">
+          <p className="text-white mt-10 w-full flex justify-center bg-black   h-[99vh] items-center font-bold">
             No results found.
           </p>
         ) : (
-          <div className="  grid md:grid-cols-3 sm:grid-cols-2  gap-4 mt-[57px] p-2">
+          <div className="  grid md:grid-cols-3 sm:grid-cols-2  gap-4 mt-[57px] p-2  bg-black ">
             {results.map((video) => (
               <Link
                 to={`/watch/${video._id}`}
